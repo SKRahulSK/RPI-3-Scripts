@@ -1,6 +1,6 @@
 # RPI-Scripts
 
-Scripts related to Raspberry Pi
+#Scripts related to Raspberry Pi
 
 
 # MeschAP Installation
